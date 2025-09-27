@@ -1,0 +1,11 @@
+/* minimal stub to satisfy imports during build */
+.dashboardContainer { display: block; }
+.header { display: flex; }
+.userInfo { display:inline-block }
+.headerActions { display:flex }
+.mainContent { padding: 8px }
+.menuGrid { display:grid }
+.menuButton { padding:8px }
+.menuIcon { display:inline-block }
+.menuLabel { display:block }
+.placeholderScreen { padding: 16px }

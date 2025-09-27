@@ -1,0 +1,7 @@
+.container { display:flex }
+.leftPanel { flex:1 }
+.rightPanel { flex:1 }
+.brandingContent { padding:8px }
+.logo { width:120px }
+.formContainer { padding:16px }
+.toggleButton { margin-right:8px }
