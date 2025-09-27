@@ -5,6 +5,3 @@ import React from 'react'
 export const SonnerToaster: React.FC = () => null
 
 export default SonnerToaster
-import React from "react";
-
-export const SonnerToaster: React.FC = () => null;
