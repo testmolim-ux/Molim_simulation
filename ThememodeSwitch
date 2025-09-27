@@ -1,0 +1,2 @@
+export * from './ThememodeSwitch.tsx';
+export { default } from './ThememodeSwitch.tsx';

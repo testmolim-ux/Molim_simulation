@@ -1,0 +1,2 @@
+export * from './_Globalcontextprovider.tsx';
+export { default } from './_Globalcontextprovider.tsx';

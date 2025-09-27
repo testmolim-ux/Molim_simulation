@@ -1,0 +1,2 @@
+export * from './_puplicConfigis.ts';
+export { default } from './_puplicConfigis.ts';
